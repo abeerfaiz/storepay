@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StorePay.Api/StorePay.Api.csproj" />
+    <Project Path="src/StorePay.Application/StorePay.Application.csproj" />
+    <Project Path="src/StorePay.Domain/StorePay.Domain.csproj" />
+    <Project Path="src/StorePay.Infrastructure/StorePay.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StorePay.Tests/StorePay.Tests.csproj" />
+  </Folder>
+</Solution>
